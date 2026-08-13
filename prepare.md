@@ -1,5 +1,6 @@
 # Prepare — olist-churn-cohort 決策記錄
 
+> **版本**：OC-003 · 2026-07-20
 > 記錄規則繼承根 `prepare.md`，此處只寫差異。編號前綴 `OC-`。
 > 完整規劃書（商業問題、方法、Phase、人為接軌點）：
 > https://claude.ai/code/artifact/6e4157f2-4692-44ad-a785-421e24d904c1
