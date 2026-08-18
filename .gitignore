@@ -3,3 +3,9 @@ data/
 __pycache__/
 *.duckdb
 .DS_Store
+
+# 環境變數與金鑰（← D-029）
+.env
+.env.*
+!.env.example
+!.env.*.example
